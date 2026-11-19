@@ -1,0 +1,27 @@
+# Ambientes Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Configurações e credenciais
+config.json
+.env
+*.pem
+*.key
+*.pfx
+
+# Builds e executáveis locais
+build/
+dist/
+*.exe
+
+# Dados fiscais e temporários
+*.xml
+*.zip
+lista.txt
+lista.json
+backup*/
+BKP*/
+teste*/
