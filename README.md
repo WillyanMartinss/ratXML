@@ -45,6 +45,14 @@ python procurar.py
 
 O modo gráfico permite selecionar os arquivos, pasta de origem e destino, gerar o ZIP e configurar o envio por e-mail.
 
+## 🖼️ Demonstração
+
+Tela de busca por período, permitindo escolher datas, tipo de data, pasta de origem e opções de processamento:
+
+<p align="center">
+  <img src="docs/screenshots/busca-por-periodo.jpg" alt="Tela de busca por período do RataoXML" width="900">
+</p>
+
 ## ⌨️ Modo console
 
 Busca com uma lista de chaves:
